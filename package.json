@@ -1,0 +1,13 @@
+{
+  "name": "teneturenim",
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  },
+  "license": "(Apache-2.0 AND BSD-3-Clause)",
+  "author": "ChrisMills",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KeyonCronin/teneturenim.git"
+  },
+  "version": "1.0.0"
+}
